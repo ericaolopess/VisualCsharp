@@ -1,0 +1,14 @@
+C:\Users\erica\source\repos\SistemaFiveRings\bin\Debug\SistemaFiveRings.exe.config
+C:\Users\erica\source\repos\SistemaFiveRings\bin\Debug\SistemaFiveRings.exe
+C:\Users\erica\source\repos\SistemaFiveRings\bin\Debug\SistemaFiveRings.pdb
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.csprojAssemblyReference.cache
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.Login.resources
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.Properties.Resources.resources
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.csproj.GenerateResource.cache
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.exe
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.pdb
+C:\Users\erica\source\repos\SistemaFiveRings\bin\Debug\SistemaFiveRings.exe.manifest
+C:\Users\erica\source\repos\SistemaFiveRings\bin\Debug\SistemaFiveRings.application
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.exe.manifest
+C:\Users\erica\source\repos\SistemaFiveRings\obj\Debug\SistemaFiveRings.application
